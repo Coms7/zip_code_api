@@ -1,3 +1,5 @@
 DS_store
+.env
 vender
 .bundle
+.ruby-version

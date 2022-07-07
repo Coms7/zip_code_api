@@ -1,5 +1,12 @@
 source "https://rubygems.org"
 
 gem 'sinatra'
-
 gem 'mysql2'
+gem 'dotenv'
+
+group :test do
+  'rspec'
+
+end
+
+
